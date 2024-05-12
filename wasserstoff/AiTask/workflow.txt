@@ -1,0 +1,15 @@
+data reterival from wordpress sites.
+convert the data into documents and chuncky it.
+converting data into embeddings.
+storing the data into vector database.
+make a reterival variable.
+query the data base.
+making different endpoint for data reterival and posting.
+
+
+work upon the updates of the data.
+real time update system.
+
+
+rag application worflow.
+load env variables

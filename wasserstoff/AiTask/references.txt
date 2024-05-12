@@ -1,0 +1,7 @@
+GET http://mysite.com/wp-json/wp/v2/posts/ : api to get the information of posts.
+key: 
+    'id' key for taking the id as consideration.
+    'content' key for taking the content of the post.
+    'rendered' text having the data.
+
+user query > sendbtn > user get the data from the rag > send back to template

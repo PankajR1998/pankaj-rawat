@@ -1,0 +1,5 @@
+enviroment setting.
+all the necessory research is done.
+workflow made.
+made a working code flow for a post 
+build an local api through flask.
