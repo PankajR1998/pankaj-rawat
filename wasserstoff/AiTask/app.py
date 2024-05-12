@@ -59,7 +59,7 @@ def get_rag_reponse():
 
 if __name__=="__main__":
     # ragchain=setup_rag_pipeline(context=context_gen())
-    app.run()
+    app.run(host="0.0.0.0",port=8080)
     # print(context_gen())
     # query = "tell me the post id of Six on Saturday:  Opportunities for Change title"
     

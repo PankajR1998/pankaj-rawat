@@ -1,18 +1,18 @@
-ipykernel
-streamlit
+# ipykernel
+# streamlit
 python-dotenv
 langchain
 langchain-community
-ollama
-fastapi
-uvicorn
-langserve
+# ollama
+# fastapi
+# uvicorn
+# langserve
 sse_starlette
-bs4
-pypdf
-chromadb
-wikipedia
-arxiv
+# bs4
+# pypdf
+# chromadb
+# wikipedia
+# arxiv
 langchainhub
 sentence-transformers
 faiss-cpu
